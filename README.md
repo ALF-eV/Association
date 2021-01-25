@@ -19,12 +19,14 @@ For legal clarity the society should be incorporated/eingetragene; for tax advan
 
 #### Goal
 - To support the development of non-profit, open-source, research software.
-- In particular, to allow projects to receive and use donations avoiding the bureaucratic hurdles typical of universities and other institutions.
+- In particular:
+   - to support the construction of scientific networks (den Aufbau von wissenschaftlichen Netzwerken zu unterstützen);
+   - to allow projects to receive and use donations avoiding the bureaucratic hurdles typical of universities and other institutions (es Projekten zu ermöglichen, Spenden unter Umgehung der für Universitäten und andere Institutionen typischen bürokratischen Hürden entgegenzunehmen und zu verwenden);
 
 
 ### Early resources
 
 From Flo's issue https://git.physik.uni-wuerzburg.de/ALF/ALF/-/issues/183:
-- some guide: https://www.wonder.legal/de/guide/leitfaden-zur-grundung-eines-vereins
+- some guide: https://www.wonder.legal/de/guide/leitfaden-zur-grundung-eines-vereins (don't use their templates, since they're not free)
 - Eine aktuelle Satzung die die Gemeinnützigkeit bestanden hat: https://raw.githubusercontent.com/DE-RSE/satzung/master/de-RSE-e.V._Satzung_2019-01-07.pdf
 - Another society with similar goals: https://freie-software.org/verein/
