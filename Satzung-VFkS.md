@@ -19,7 +19,7 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
 
 #### 3. Mitgliedschaft
 
-1. Mitglieder können natürliche und juristische Personen sein, die seine Ziele unterstützt.
+1. Mitglieder können natürliche und juristische Personen sein, die die Vereinsziele unterstützt.
 2. Über die Aufnahme entscheidet nach schriftlichem Antrag der Vorstand. Bei Minderjährigen ist der Aufnahmeantrag durch die gesetzlichen Vertreter zu stellen.
 3. Die Mitgliedschaft endet durch Austritt, durch Tod von natürlichen Personen oder durch Auflösung von juristischen Personen, durch Ausschluss oder durch Auflösung des Vereins.
 4. Der Austritt aus dem Verein ist jederzeit zulässig. Die Frist beträgt 1 Monat. Er muss schriftlich gegenüber dem Vorstand erklärt werden.
