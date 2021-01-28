@@ -12,8 +12,13 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
 #### 2. Vereinszweck und Gemeinnützigkeit
 
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung. Er ist selbstlos tätig und verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
-2. Zweck des Vereins ist die Förderung von Wissenschaft und Forschung im Bereich Forschungssoftware unter spezieller Berücksichtigung von kleiner, nicht-kommerzielle, quelloffene, wissenschaftliche Softwareprojekte.
-3. Der Satzungszweck wird insbesondere verwirklicht durch folgende Tätigkeiten: i) den Aufbau von wissenschaftlichen Netzwerken zu unterstützen; ii) Spenden für Softwareprojekte entgegenzunehmen und zu verteilen.
+2. Zweck des Vereins ist die Förderung von Wissenschaft und Forschung im Bereich Forschungssoftware unter spezieller Berücksichtigung von kleinen, nicht-kommerziellen, quelloffenen, wissenschaftlichen Softwareprojekten.
+3. Der Satzungszweck wird insbesondere verwirklicht durch folgende Tätigkeiten:
+
+ i) den Aufbau von wissenschaftlichen Netzwerken zu unterstützen;
+
+ii) Spenden für Softwareprojekte entgegenzunehmen und zu verteilen.
+
 4. Mittel des Vereins dürfen nur für die satzungsgemäßen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
 5. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
@@ -25,7 +30,7 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
 4. Der Austritt aus dem Verein ist jederzeit zulässig. Die Frist beträgt 1 Monat. Er muss schriftlich gegenüber dem Vorstand erklärt werden.
 5. Ein Mitglied kann aus dem Verein ausgeschlossen werden, wenn sein Verhalten in grober Weise gegen die Interessen des Vereins verstößt. Über den Ausschluss entscheidet die Mitgliederversammlung mit 2/3-Mehrheit der abgegebenen Stimmen.
 6. Das ausgetretene oder ausgeschlossene Mitglied hat keinen Anspruch gegenüber dem Vereinsvermögen.
-7. Die Mitglieder sind verpflichtet, die von der Mitgliedsbeiträge zu leisten. Die Höhe und Fälligkeit der Mitgliedsbeiträge wird durch die Mitgliederversammlung festgesetzt.
+7. Die Mitglieder sind verpflichtet, die Mitgliedsbeiträge zu leisten. Die Höhe und Fälligkeit der Mitgliedsbeiträge wird durch die Mitgliederversammlung festgesetzt.
 
 #### 4. Vereinsorgane
 Die Organe des Vereins sind:   
