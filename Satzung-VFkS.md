@@ -6,7 +6,7 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
 
 #### 1. Name und Sitz
 
-1. Der Verein trägt den Namen "Verein zur Förderung kleiner Softwareprojekte". Nach der Eintragung in das Vereinsregister trägt er den Namen "Verein zur Förderung kleiner Softwareprojekte e.V.".
+1. Der Verein trägt den Namen "Verein zur Förderung kleiner Forschungs-Softwareprojekte". Nach der Eintragung in das Vereinsregister trägt er den Namen "Verein zur Förderung kleiner Softwareprojekte e.V.".
 2. Der Verein hat seinen Sitz in Würzburg und sein Geschäftsjahr ist das Kalenderjahr.
 
 #### 2. Vereinszweck und Gemeinnützigkeit
@@ -40,7 +40,7 @@ Oberstes Vereinsorgan ist die Mitgliederversammlung, die auch online stattfinden
 1. Die ordentliche Mitgliederversammlung findet einmal jährlich statt. Außerdem muss eine Mitgliederversammlung einberufen werden, wenn das Interesse des Vereins es erfordert oder wenn mindestens 1/5 der Mitglieder die Einberufung schriftlich unter Angabe des Zwecks und der Gründe verlangt.
 2. Jede Mitgliederversammlung ist vom Vorstand schriftlich und/oder per E-mail unter Einhaltung einer Einladungsfrist von zwei Wochen und unter Angabe der Tagesordnung einzuberufen.
 3. Versammlungsleiter ist der 1. Vorsitzende und im Falle seiner Verhinderung der 2. Vorsitzende. Sollten beide nicht anwesend sein, wird ein Versammlungsleiter von der Mitgliederversammlung gewählt. Soweit der Schriftführer nicht anwesend ist, wird auch dieser von der Mitgliederversammlung bestimmt.
-4. Jede ordnungsgemäß einberufene Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig.
+4. Die Untergrenze für die Beschlussfähigkeit der Mitgliederversammlung beträgt 25% der Mitglieder.
 5. Die Beschlüsse der Mitgliederversammlung werden mit einfacher Mehrheit der abgegebenen gültigen Stimmen gefasst. Zur Änderung der Satzung und des Vereinszwecks ist jedoch eine Mehrheit von 2/3 der abgegebenen gültigen Stimmen erforderlich.
 6. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll aufzunehmen, das vom Versammlungsleiter und dem Schriftführer zu unterschreiben ist.
 
