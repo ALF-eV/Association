@@ -1,4 +1,4 @@
-# Society for the Advancement of small Software Projects
+# Society for the Advancement of small Research Software Projects
 
 # Verein zur Förderung kleiner Softwareprojekte
 
