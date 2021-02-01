@@ -20,7 +20,7 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
 
 #### 3. Mitgliedschaft
 
-1. Mitglieder können natürliche und juristische Personen sein, die die Vereinsziele unterstützt.
+1. Mitglieder können natürliche und juristische Personen sein, die die Vereinsziele unterstützen.
 2. Über die Aufnahme entscheidet nach schriftlichem Antrag der Vorstand. Bei Minderjährigen ist der Aufnahmeantrag durch die gesetzlichen Vertreter zu stellen.
 3. Die Mitgliedschaft endet durch Austritt, durch Tod von natürlichen Personen oder durch Auflösung von juristischen Personen, durch Ausschluss oder durch Auflösung des Vereins.
 4. Der Austritt aus dem Verein ist jederzeit zulässig. Die Frist beträgt 1 Monat. Er muss schriftlich gegenüber dem Vorstand erklärt werden.
@@ -45,7 +45,7 @@ Oberstes Vereinsorgan ist die Mitgliederversammlung, die auch online stattfinden
 6. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll aufzunehmen, das vom Versammlungsleiter und dem Schriftführer zu unterschreiben ist.
 
 #### 6. Vorstand
-1. Der Gesamtvorstand des Vereins besteht aus dem 1. Vorsitzenden, dem 2. Vorsitzenden, dem Schatzmeister, dem Schriftführer, und bis zu vier weitere Beisitzer (die genaue Anzahl wird von der Mitgliederversammlung bestimmt).
+1. Der Gesamtvorstand des Vereins besteht aus dem 1. Vorsitzenden, dem 2. Vorsitzenden, dem Schatzmeister, dem Schriftführer, und bis zu vier weiteren Beisitzern (die genaue Anzahl wird von der Mitgliederversammlung bestimmt).
 2. Der Vorstand im Sinne des § 26 BGB besteht aus dem 1. Vorsitzenden und dem 2. Vorsitzenden. Jeder von ihnen vertritt den Verein einzeln.
 3. Der Vorstand wird von der Mitgliederversammlung auf die Dauer von zwei Jahren gewählt; er bleibt jedoch so lange im Amt bis eine Neuwahl erfolgt ist. Mit Beendigung der Mitgliedschaft endet auch das Amt im Vorstand. Ein Mitglied des Vorstands kann sein Amt jederzeit durch schriftliche Erklärung an die Mitgliederversammlung niederlegen.
 4. Im Falle von Stimmengleichheit bei Beschlussfassungen des Vorstands entscheidet die Stimme des ersten Vorsitzenden.
