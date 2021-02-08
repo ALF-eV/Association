@@ -1,6 +1,6 @@
 # Society for the Advancement of small Research Software Projects
 
-# Verein zur Förderung kleiner Softwareprojekte
+# Verein zur Förderung kleiner Forschungs-Softwareprojekte
 
 
 Things for the foundation and management of the Society.
