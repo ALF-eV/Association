@@ -1,8 +1,5 @@
-# Satzung des VFkS e.V.
+# Satzung des VFkF e.V.
 
-#### Präambel
-
-Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui do lorem ipsum, quia dolor sit amet consectetur adipisci[ng] velit, sed quia non numquam [do] eius modi tempora inci[di]dunt, ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum[d] exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? [D]Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur, vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur?
 
 #### 1. Name und Sitz
 
@@ -13,10 +10,8 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
 
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung. Er ist selbstlos tätig und verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 2. Zweck des Vereins ist die Förderung von Wissenschaft und Forschung im Bereich Forschungssoftware unter spezieller Berücksichtigung von kleinen, nicht-kommerziellen, quelloffenen, wissenschaftlichen Softwareprojekten.
-3. Der Satzungszweck wird insbesondere verwirklicht durch folgende Tätigkeiten: i) den Aufbau von wissenschaftlichen Netzwerken zu unterstützen; ii) Spenden für Softwareprojekte entgegenzunehmen und zu verteilen, iii) 
-die Entwicklung der Software entsprechend ihrer Domänen-spezifischen Anforderungen.
-
-4. Mittel des Vereins dürfen nur für die satzungsgemäßen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
+3. Der Satzungszweck wird insbesondere verwirklicht durch folgende Tätigkeiten: i) den Aufbau von wissenschaftlichen Netzwerken zu unterstützen; ii) Spenden für Softwareprojekte entgegenzunehmen und zu verteilen, iii) die Entwicklung der Software entsprechend ihrer Domänen-spezifischen Anforderungen.
+4. Mittel des Vereins dürfen nur für die satzungsgemäßen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins, außerhalb des Rahmens seiner unterstützten Projekte.
 5. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
 #### 3. Mitgliedschaft
@@ -41,7 +36,7 @@ Oberstes Vereinsorgan ist die Mitgliederversammlung, die auch online stattfinden
 1. Die ordentliche Mitgliederversammlung findet einmal jährlich statt. Außerdem muss eine Mitgliederversammlung einberufen werden, wenn das Interesse des Vereins es erfordert oder wenn mindestens 1/5 der Mitglieder die Einberufung schriftlich unter Angabe des Zwecks und der Gründe verlangt.
 2. Jede Mitgliederversammlung ist vom Vorstand schriftlich und/oder per E-mail unter Einhaltung einer Einladungsfrist von zwei Wochen und unter Angabe der Tagesordnung einzuberufen.
 3. Versammlungsleiter ist der 1. Vorsitzende und im Falle seiner Verhinderung der 2. Vorsitzende. Sollten beide nicht anwesend sein, wird ein Versammlungsleiter von der Mitgliederversammlung gewählt. Soweit der Schriftführer nicht anwesend ist, wird auch dieser von der Mitgliederversammlung bestimmt.
-4. Die Untergrenze für die Beschlussfähigkeit der Mitgliederversammlung beträgt 25% der Mitglieder.
+4. Die Untergrenze für die Beschlussfähigkeit der Mitgliederversammlung beträgt 20% der Mitglieder.
 5. Die Beschlüsse der Mitgliederversammlung werden mit einfacher Mehrheit der abgegebenen gültigen Stimmen gefasst. Zur Änderung der Satzung und des Vereinszwecks ist jedoch eine Mehrheit von 2/3 der abgegebenen gültigen Stimmen erforderlich.
 6. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll aufzunehmen, das vom Versammlungsleiter und dem Schriftführer zu unterschreiben ist.
 
@@ -50,7 +45,8 @@ Oberstes Vereinsorgan ist die Mitgliederversammlung, die auch online stattfinden
 2. Der Vorstand im Sinne des § 26 BGB besteht aus dem 1. Vorsitzenden und dem 2. Vorsitzenden. Jeder von ihnen vertritt den Verein einzeln.
 3. Der Vorstand wird von der Mitgliederversammlung auf die Dauer von zwei Jahren gewählt; er bleibt jedoch so lange im Amt bis eine Neuwahl erfolgt ist. Mit Beendigung der Mitgliedschaft endet auch das Amt im Vorstand. Ein Mitglied des Vorstands kann sein Amt jederzeit durch schriftliche Erklärung an die Mitgliederversammlung niederlegen.
 4. Im Falle von Stimmengleichheit bei Beschlussfassungen des Vorstands entscheidet die Stimme des ersten Vorsitzenden.
-5. Der Schatzmeister überwacht die Geschäftsführung und verwaltet das Vermögen des Vereins. Unmittelbar nach Ablauf des Geschäftsjahrs erstellt er den Finanzabschlussbericht und stellt diesen und sonstige Unterlagen von wirtschaftlichem Belang den Rechnungsprüfern zur Prüfung zur Verfügung.
+5. Der Vorstand ist verantwortlich für die Entscheidung über die Annahme von Förderanträgen für Softwareprojekte und über die Verteilung von Spenden, die nicht für spezifische Projekte bestimmt sind.
+6. Der Schatzmeister überwacht die Geschäftsführung und verwaltet das Vermögen des Vereins. Unmittelbar nach Ablauf des Geschäftsjahrs erstellt er den Finanzabschlussbericht und stellt diesen und sonstige Unterlagen von wirtschaftlichem Belang den Rechnungsprüfern zur Prüfung zur Verfügung.
 
 #### 7. Auflösung des Vereins
 1. Zur Auflösung des Vereins ist eine Mehrheit von 4/5 der abgegebenen gültigen Stimmen erforderlich.
