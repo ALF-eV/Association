@@ -34,7 +34,7 @@ At the sole discretion of the Vorstand?
 
 ### File of Open Source Developers
 We can collect contact data of persons who are willing to work on research software Projects on
-an freelance basis and thereby facilitate bringing skilled/reliable developers together with projects in need of
+a freelance basis and thereby facilitate bringing skilled/reliable developers together with projects in need of
 manpower.
 
 ### Chapters
@@ -48,10 +48,11 @@ from these entities.
 - Python
 - Machine Learning/AI
 - Data Management 
-- ...
+- Combination with the local DE-RSE chapters.
 
 ## Open questions
 - collection of funds vs Gemeinnützigkeit of DE-RSE
 - for which time-scales may we collect donations?
 - should we work together with https://techcultivation.org/#overview so that DE-RSE is an affiliated organization for them?
 - How much Accounting overhead will that be for Schatzmeister Stephan Janosch?
+- Transparency thingies: Maybe we should think about a public yearly report about how we distributed this money. We could even go so far as having that as a requirement for participation.
