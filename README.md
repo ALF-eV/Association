@@ -46,4 +46,6 @@ Some from Flo's issue https://git.physik.uni-wuerzburg.de/ALF/ALF/-/issues/183:
 
 * Vereinsregister; Einsicht:  https://www.freistaat.bayern/dokumente/leistung/64774641676
 
-* ? Consider a gGmbH (gemeinnützige Gesellschaft mit beschränkter Haftung - "non-profit company with limited liability") ?
+* Consider a gGmbH (gemeinnützige Gesellschaft mit beschränkter Haftung - "non-profit company with limited liability")?   
+  Some info: https://www.gruenderkueche.de/fachartikel/checkliste-gemeinnuetzige-gmbh-ggmbh-und-verein-im-vergleich/   
+             https://www.firma.de/en/company-formation/the-ggmbh-what-is-the-german-non-profit-limited-liability-company/
