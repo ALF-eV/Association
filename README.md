@@ -18,7 +18,7 @@ pandoc --variable margin-left=2cm --variable margin-right=2cm --variable margin-
 
 ### Foundation
 
-For legal clarity the society should be incorporated/eingetragene; for tax advantages it should be a charity/gemeinnützig.
+For legal clarity the society should be incorporated/eingetragene; for tax advantages it should be a charity/gemeinnützig ("the recognition of 'gemeinnützigkeit' by the Finanzamt will take 6-12 months").
 
 * Members of the society / Vereinsmitglieder (min. 7): ALF Collaboration+
 * Board / Vorstand : to be chosen at the foundation assembly; rules defined in the statute/Satzung
@@ -26,7 +26,8 @@ For legal clarity the society should be incorporated/eingetragene; for tax advan
 * Donations received by the Society can be of two types:
   1. Earmarked to a specific existing project or projects, in which case the funds will be used at the discretion of the Society members linked to the project(s);
   2. Open donations to the Society itself, to be used at the discretion of the Society Board.
-* ...
+* For the distribution of money wi should declare them as 'Stipends'. This sounds better on CVs if people use the money for bridging funding gaps and should also be more favorable in terms of taxation.
+* Also taxation-wise it is more sensible to try to obtain all funds as research funds as opposed to obtaining money for the implementation of a specific feature.
 
 #### Goals
 
@@ -44,3 +45,5 @@ Some from Flo's issue https://git.physik.uni-wuerzburg.de/ALF/ALF/-/issues/183:
 * Another society with similar goals: https://freie-software.org/verein/
 
 * Vereinsregister; Einsicht:  https://www.freistaat.bayern/dokumente/leistung/64774641676
+
+* ? Consider a gGmbH (gemeinnützige Gesellschaft mit beschränkter Haftung - "non-profit company with limited liability") ?
