@@ -1,14 +1,35 @@
 # Working Title: Repository and Funding Facilitation of German Open-Source Research Software Projects
 
+>FFA:    There are two things that I do not like in the title. 
+> 
+> 1.  The restriction to German Open-Source  projects seems to restrictive.
+> 2.  I do not think that funding should  be the  only goal. 
+> 
+> I would suggest the following title: 
+> # Open-Source Research Software Projects: Repository and Overarching Issues.
+
 ## Preamble/Intent
+
+> Intent would be 
+> 
+>   A common platform to  cope with various issues concerning small software projects developed at universities.     
+> 
+>
+
+
+
+## Prerequisites for the software project
+
+> We should at  least go European.... Still better, let's not link this effort to any nation!
+
+Open Source, Research, and Germany based I think. We can think about whether we want any other contribution towards DE-RSE from the project.
+
+##  Funding
 Within the public German research sector it can be difficult to bring deliver funds from outside
 parties to the software projects that have applied for them.
 We intend to change that by providing a repository of fundable software projects
 as well as a directory of able developers and bridge the institutional gap via 
 the facilities of DE-RSE.
-
-## Prerequisites for the software project
-Open Source, Research, and Germany based I think. We can think about whether we want any other contribution towards DE-RSE from the project.
 
 ## Processes
 Since we are dealing with money that a project has succesfully applied for, we should have from the start transparent
