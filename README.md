@@ -5,6 +5,8 @@
 
 Things for the foundation and management of the Society.
 
+UPDATE: considering the RSE: see Issue https://git.physik.uni-wuerzburg.de/ALF/society/-/issues/2
+
 ---
 
 ### Statute / Satzung
