@@ -1,11 +1,4 @@
-# Working Title: Software Repository and Funding Facilitation of German Open-Source Research Software Projects
-
->FFA:    There are two things that I do not like in the title. 
-> 
-> 2.  I do not think that funding should  be the  only goal. 
-> 
-> I would suggest the following title: 
-> # Open-Source Research Software Projects: Repository and Overarching Issues.
+# Working Title: Software Repository and sponsorship/maintenance of German Open-Source Research Software Projects
 
 ## Preamble/Intent
 
@@ -18,10 +11,8 @@
 
 
 ## Prerequisites for the software project
-
-> We should at  least go European.... Still better, let's not link this effort to any nation!
-
-Open Source, Research, and Germany based I think. We can think about whether we want any other contribution towards DE-RSE from the project.
+Open Source, Research, and Germany(? funding <-> networking) based I think.
+We can think about whether we want any other contribution towards DE-RSE from the project.
 
 ##  Funding
 Within the public German research sector it can be difficult to bring deliver funds from outside
@@ -74,7 +65,7 @@ from such entities.
 - collection of funds vs Gemeinnützigkeit of DE-RSE
 - for which time scales may we collect donations?
 - should we work together with https://techcultivation.org/#overview so that DE-RSE is an affiliated organization for them?
-- How much accounting overhead will that be for Schatzmeister?
+- How much accounting overhead will that be for the Schatzmeister?
 - Transparency thingies: Maybe we should think about a public yearly report about how we distributed this money. We could even go so far as having that as a requirement for participation.
 - We should strive to work on the networking aspects and extend the collaborations beyond germany at least across europe.
 - Is it a requirement that the host institution is somehow germany based? If we emphasize the networking aspect I would say no. If a possible funder requires it, then maybe yes...
