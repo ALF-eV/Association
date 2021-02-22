@@ -1,12 +1,13 @@
 # Working Title: Software Repository and sponsorship/maintenance of German Open-Source Research Software Projects
 
 ## Preamble/Intent
-
-> Intent would be 
-> 
->   A common platform to  cope with various issues concerning small software projects developed at universities.     
-> 
->
+Within the public german research sector it is difficult to bring together funds from outside
+partys with the software projects that have applied for them.
+In a first step ee intend to change that by providing a software repository of fundable software projects
+together with a file of able developers and bridge the institutional gap via
+the facilities of DE-RSE.
+With the carrot of advertisements for software projects or the possibility of easier obtaining funds 
+it should be possible to quickly fill the repository and foster networking/standardization across the software projects.
 
 
 
@@ -48,6 +49,12 @@ We can collect contact data of persons who are willing to work on research softw
 a freelance basis and thereby facilitate bringing skilled/reliable developers together with projects in need of
 manpower.
 
+## Software Repository
+We should be able to build up a repository of affiliated software projects.
+This gives us various opportunities for further cross-fertilization across
+the projects.
+To repeat I very much liked the idea from here https://www.wauland.de/de/donate/
+
 ### Chapters
 Our original Verein had the notion of chapters that collect projects of similar interests.
 This would make funding easier for funders who can only fund projects of a given field/type.
@@ -62,7 +69,7 @@ from such entities.
 - Combination with the local DE-RSE chapters.
 
 ## Open questions
-- collection of funds vs Gemeinnützigkeit of DE-RSE
+- collection of funds vs. Gemeinnützigkeit of DE-RSE
 - for which time scales may we collect donations?
 - should we work together with https://techcultivation.org/#overview so that DE-RSE is an affiliated organization for them?
 - How much accounting overhead will that be for the Schatzmeister?
