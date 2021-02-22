@@ -55,6 +55,9 @@ This gives us various opportunities for further cross-fertilization across
 the projects.
 To repeat I very much liked the idea from here https://www.wauland.de/de/donate/
 
+This should also give us an overview of the landscape of software projects. Together NFDI4RSE this would give another
+opportunity for standardization finding commonalities across software projects.
+
 ### Chapters
 Our original Verein had the notion of chapters that collect projects of similar interests.
 This would make funding easier for funders who can only fund projects of a given field/type.
@@ -68,7 +71,7 @@ from such entities.
 - Data Management 
 - Combination with the local DE-RSE chapters.
 
-## Open questions
+## Open questions/ further ideas
 - collection of funds vs. Gemeinnützigkeit of DE-RSE
 - for which time scales may we collect donations?
 - should we work together with https://techcultivation.org/#overview so that DE-RSE is an affiliated organization for them?
@@ -76,3 +79,6 @@ from such entities.
 - Transparency thingies: Maybe we should think about a public yearly report about how we distributed this money. We could even go so far as having that as a requirement for participation.
 - We should strive to work on the networking aspects and extend the collaborations beyond germany at least across europe.
 - Is it a requirement that the host institution is somehow germany based? If we emphasize the networking aspect I would say no. If a possible funder requires it, then maybe yes...
+- What do we call the funds we hand out? Stipends seems to have benn the wording
+- We should forward the offer for stipends also to the other national RSE chapters, maybe also post them here: https://society-rse.org/careers/vacancies/
+- standardization: NFDI4RSE has another venue of acting across the disciplines.
