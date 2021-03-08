@@ -27,8 +27,8 @@ Since we are dealing with money that a project has succesfully applied for, we s
 processes for the services that we offer:
 ### Distribution of named/tagged Donations to a single project
 If a single project has successfully applied for money we must ensure that almost all of the money
-goes to the project. So this money has to have some kind of Tag.
-If the developers paid for contributing the the project are not meaningfully part of DE-RSE we can consider
+goes to the project. So this money has to have some kind of tag.
+If the developers, paid for contributing to the project, are not meaningfully part of DE-RSE we can consider
 a fee like 12€ (approximate fee for a bank account, that they would have needed anyway) for our intermediation.
 
 ### Collection of unnamed donations towards a single project
@@ -36,7 +36,7 @@ I envision that we can have a web interface of projects VERY similar to what the
 https://www.wauland.de/de/donate/
 where people can select to which project to donate.
 For this process we should also collect our knowledge how German research entities can donate 
-to us. People often don't know whom to talk to.
+to us. People often don't know whom to talk to with respect to this issue.
 
 ### Collection of donation/funds towards the entire repository
 We can offer this process for the undecided, who just want to fund ALL/ANY of the projects.
@@ -45,7 +45,7 @@ Gießkannen-Prinzip? Internal competitive process where the projects may apply (
 At the sole discretion of the Vorstand?
 
 ### File of Open Source Developers
-We can collect contact data of persons who are willing to work on research software Projects on
+We can collect contact data of persons who are willing to work on research software projects on
 a freelance basis and thereby facilitate bringing skilled/reliable developers together with projects in need of
 manpower.
 
@@ -55,8 +55,8 @@ This gives us various opportunities for further cross-fertilization across
 the projects.
 To repeat I very much liked the idea from here https://www.wauland.de/de/donate/
 
-This should also give us an overview of the landscape of software projects. Together NFDI4RSE this would give another
-opportunity for standardization finding commonalities across software projects.
+This should also give us an overview of the landscape of software projects. Together with NFDI4RSE this would give another
+opportunity for standardization in finding commonalities across software projects.
 
 ### Chapters
 Our original Verein had the notion of chapters that collect projects of similar interests.
@@ -79,6 +79,6 @@ from such entities.
 - Transparency thingies: Maybe we should think about a public yearly report about how we distributed this money. We could even go so far as having that as a requirement for participation.
 - We should strive to work on the networking aspects and extend the collaborations beyond germany at least across europe.
 - Is it a requirement that the host institution is somehow germany based? If we emphasize the networking aspect I would say no. If a possible funder requires it, then maybe yes...
-- What do we call the funds we hand out? Stipends seems to have benn the wording
+- What do we call the funds we hand out? Stipends seems to have been the best wording.
 - We should forward the offer for stipends also to the other national RSE chapters, maybe also post them here: https://society-rse.org/careers/vacancies/
 - standardization: NFDI4RSE has another venue of acting across the disciplines.
