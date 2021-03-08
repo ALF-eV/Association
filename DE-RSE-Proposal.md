@@ -16,7 +16,7 @@ Open Source, Research, and Germany(? funding <-> networking) based I think.
 We can think about whether we want any other contribution towards DE-RSE from the project.
 
 ##  Funding
-Within the public German research sector it can be difficult to bring deliver funds from outside
+Within the public German research sector it can be difficult to deliver funds from outside
 parties to the software projects that have applied for them.
 We intend to change that by providing a repository of fundable software projects
 as well as a directory of able developers and bridge the institutional gap via 
