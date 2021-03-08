@@ -51,3 +51,22 @@ Some from Flo's issue https://git.physik.uni-wuerzburg.de/ALF/ALF/-/issues/183:
 * Consider a gGmbH (gemeinnützige Gesellschaft mit beschränkter Haftung - "non-profit company with limited liability")?   
   Some info: https://www.gruenderkueche.de/fachartikel/checkliste-gemeinnuetzige-gmbh-ggmbh-und-verein-im-vergleich/   
              https://www.firma.de/en/company-formation/the-ggmbh-what-is-the-german-non-profit-limited-liability-company/
+
+
+#### Newer Resources
+
+some links for a similar initiative in Dresden:   
+https://fsfw-dresden.de/index.html
+
+in 2018 they published something on it, but it seems to have come to an end...   
+https://fsfw-dresden.de/2018/11/funding-foss-en.html
+
+https://fsfw-dresden.de/2018/06/interview-sander-finanzierung-freie-software.html
+
+https://pad.fsfw-dresden.de/p/funding-foss-35c3
+
+https://wiki.fsfw-dresden.de/lib/exe/fetch.php/events/35c3/fund-raising_for_free_software--thinking_big.pdf
+
+https://wiki.fsfw-dresden.de/doku.php/doku/funding-foss
+
+
