@@ -3,7 +3,7 @@
 ## Preamble/Intent
 Within the public german research sector it is difficult to bring together funds from outside
 partys with the software projects that have applied for them.
-In a first step ee intend to change that by providing a software repository of fundable software projects
+In a first step we intend to change that by providing a software repository of fundable software projects
 together with a file of able developers and bridge the institutional gap via
 the facilities of DE-RSE.
 With the carrot of advertisements for software projects or the possibility of easier obtaining funds 
