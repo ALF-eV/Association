@@ -85,3 +85,5 @@ Some info:
 The USA chapter of RSE is in Open Collective ([link](https://opencollective.com/usrse)) fiscally hosted by the [Open Collective Foundation](https://opencollective.com/foundation). One can also use the Open Collectives for free being their own fiscal host, as a so-called [Independent Collective](https://docs.opencollective.com/help/independent-collectives/about-independent-collectives).
 
 [GitHub Sponsors](https://docs.github.com/en/sponsors) seems to be another way to get funds to open-source projects.
+
+There seems to be a German fiscal sponsor in the works: The [Center for the Cultivation of Technology](https://techcultivation.org/). They have nice [docs](https://techcultivation.org/docs/index.html), but there has not been much activity over the last year.
