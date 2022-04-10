@@ -53,7 +53,7 @@ Some from Flo's issue https://git.physik.uni-wuerzburg.de/ALF/ALF/-/issues/183:
              https://www.firma.de/en/company-formation/the-ggmbh-what-is-the-german-non-profit-limited-liability-company/
 
 
-#### Newer Resources
+#### Newer (2021) Resources
 
 some links for a similar initiative in Dresden:   
 https://fsfw-dresden.de/index.html
@@ -70,3 +70,18 @@ https://wiki.fsfw-dresden.de/lib/exe/fetch.php/events/35c3/fund-raising_for_free
 https://wiki.fsfw-dresden.de/doku.php/doku/funding-foss
 
 
+#### Newer (04.2022) Resources
+
+##### Fiscal Sponsorship
+
+Also called fiscal hosting, fund-holding, auspicing, etc.
+
+Some info: 
+- https://buildingblocks.simplysecure.org/fiscal-sponsorship/
+- https://opencollective.com/fiscal-hosting
+- https://docs.opencollective.com/help/fiscal-hosts/fiscal-hosts
+
+[Open Collective Europe](https://opencollective.com/europe) (6% fee) is able to receive deductible funds in Belgium only.
+The USA chapter of RSE is in Open Collective ([link](https://opencollective.com/usrse)) fiscally hosted by the [Open Collective Foundation](https://opencollective.com/foundation). One can also use the Open Collectives for free being their own fiscal host, as a so-called [Independent Collective](https://docs.opencollective.com/help/independent-collectives/about-independent-collectives).
+
+[GitHub Sponsors](https://docs.github.com/en/sponsors) seems to be another way to get funds to open-source projects.
