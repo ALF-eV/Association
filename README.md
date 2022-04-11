@@ -69,6 +69,25 @@ https://wiki.fsfw-dresden.de/lib/exe/fetch.php/events/35c3/fund-raising_for_free
 
 https://wiki.fsfw-dresden.de/doku.php/doku/funding-foss
 
+Wau Holland Stiftung - https://www.wauland.de/de/  - Foundation, accepts donations, supports certain open-source projects
+
+techCultivation [see Fiscal Sponsorship below]
+
+> ##### Ideen
+> - Marktplatz für Entwickler. -> Forschungsgruppen bräuchten für sowas 
+> ein budget.(Mail von Joachim Wuttke)
+> - Marktplatz speziell für RSE Entwickler, mit nähe zum Forschungsumfeld
+> - Marktplatz am NFDI e.V ansiedeln, oder beim EOSC AISBL
+> - https://researchsoftware.org/2020/11/03/single-entry-point-and-marketplace-for-the-RSE-community-RSE-profile-map.html
+> - klassisches Bug-Bounty: https://www.bountysource.com/
+> - kickstarter?
+> - wissenschaftliche Dienstleistungen? (Siehe Mail von Daniela Rings)
+> - Kooperationen zwischen öffentlichen Einrichtungen und Universitäten.
+
+Prototype Fund: https://prototypefund.de/en/about-2/
+
+https://numfocus.org/ (USA based)
+
 
 #### Newer (04.2022) Resources
 
@@ -87,3 +106,21 @@ The USA chapter of RSE is in Open Collective ([link](https://opencollective.com/
 [GitHub Sponsors](https://docs.github.com/en/sponsors) seems to be another way to get funds to open-source projects.
 
 There seems to be a German fiscal sponsor in the works: The [Center for the Cultivation of Technology](https://techcultivation.org/). They have nice [docs](https://techcultivation.org/docs/index.html), but there has not been much activity over the last year.
+
+
+##### Misc
+
+Interview: [„Open Source braucht öffentliche Finanzierung“](https://netzpolitik.org/2021/interview-open-source-braucht-oeffentliche-finanzierung/)
+
+Example of Max-Planck-G-supported code: https://epics.mpg.de/
+
+RSE Working Group (2020) [Marketplace for the RSE Community](https://researchsoftware.org/2020/11/03/single-entry-point-and-marketplace-for-the-RSE-community-RSE-profile-map.html)
+
+https://bountysource.com/   
+https://en.wikipedia.org/wiki/Open-source_bounty   
+www.kickstarter.com   
+https://www.spi-inc.org/ , https://sfconservancy.org/ - USA fiscal sponsors, only for 501(c)3-compatible non-profits 
+
+https://www.linuxfoundation.org/   
+https://incubator.apache.org/
+
