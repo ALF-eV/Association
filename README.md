@@ -91,6 +91,8 @@ https://numfocus.org/ (USA based)
 
 #### Newer (04.2022) Resources
 
+- Also see https://git.physik.uni-wuerzburg.de/group-assaad-proposals/alf-vs-dfg/-/blob/master/Proposal_2020/NOTES.md
+
 ##### Fiscal Sponsorship
 
 Also called fiscal hosting, fund-holding, auspicing, etc.
