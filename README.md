@@ -18,7 +18,7 @@ pandoc --variable margin-left=2cm --variable margin-right=2cm --variable margin-
 ~~~
 
 
-### Foundation
+### Society
 
 For legal clarity the society should be incorporated/eingetragene; for tax advantages it should be a charity/gemeinnützig ("the recognition of 'gemeinnützigkeit' by the Finanzamt will take 6-12 months").
 
@@ -27,8 +27,8 @@ For legal clarity the society should be incorporated/eingetragene; for tax advan
 * Name: Society for the Advancement of small Software Projects - Verein zur Förderung kleiner Softwareprojekte (_sollte der Vereinsname geschützt werden, etwa als eine Wortmarke._)
 * Donations received by the Society can be of two types:
   1. Earmarked to a specific existing project or projects, in which case the funds will be used at the discretion of the Society members linked to the project(s);
-  2. Open donations to the Society itself, to be used at the discretion of the Society Board.
-* For the distribution of money wi should declare them as 'Stipends'. This sounds better on CVs if people use the money for bridging funding gaps and should also be more favorable in terms of taxation.
+  2. Open donations to the Society itself, to be used at the discretion of the Society Board (funds can typically be kept for up to 2 years).
+* For the distribution of money we should declare them as 'Stipends'. This sounds better on CVs if people use the money for bridging funding gaps and should also be more favorable in terms of taxation.
 * Also taxation-wise it is more sensible to try to obtain all funds as research funds as opposed to obtaining money for the implementation of a specific feature.
 
 #### Goals
