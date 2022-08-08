@@ -1,16 +1,16 @@
-# Satzung des ALF e.V.
+# Satzung des Vereins "Algorithms for Lattice Fermions"
 
 
 #### 1. Name und Sitz
 
-1. Der Verein trägt den Namen "ALF".  Nach der Eintragung in das Vereinsregister trägt er den Namen "ALF e.V.".
+1. Der Verein trägt den Namen "Algorithms for Lattice Fermions (ALF)".  Nach der Eintragung in das Vereinsregister trägt er den Namen "Algorithms for Lattice Fermions (ALF) e.V.".
 2. Der Verein hat seinen Sitz in Würzburg und sein Geschäftsjahr ist das Kalenderjahr.
 
 #### 2. Vereinszweck und Gemeinnützigkeit
 
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung. Er ist selbstlos tätig und verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 2. Zweck des Vereins ist die Förderung von ALF (d.h. das für die Physikforschung entwickelte Open-Source Softwarepaket "Algorithms for Lattice Fermions", erhältlich unter [https://git.physik.uni-wuerzburg.de/ALF/ALF](https://git.physik.uni-wuerzburg.de/ALF/ALF), weitere Informationen unter [https://alf.physik.uni-wuerzburg.de/](https://alf.physik.uni-wuerzburg.de/)) und assoziierten Projekten nach individueller Entscheidung des Vorstandes.
-3. Der Satzungszweck wird insbesondere verwirklicht durch folgende Tätigkeiten: i) den Aufbau von wissenschaftlichen Netzwerken zu unterstützen; ii) Spenden für das ALF-Softwareprojekt entgegenzunehmen und zu verteilen, iii) die Entwicklung der ALF Software.
+3. Der Satzungszweck wird insbesondere verwirklicht durch folgende Tätigkeiten: i) den Aufbau von wissenschaftlichen Netzwerken zu unterstützen; ii) Finanzmittel des Vereins für das ALF-Softwareprojekt entgegenzunehmen und zu verwenden, iii) die Entwicklung, Wartung und Betrieb der ALF Software.
 4. Mittel des Vereins dürfen nur für die satzungsgemäßen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins, außerhalb des Rahmens seiner unterstützten Projekte.
 5. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
@@ -31,13 +31,19 @@ Die Organe des Vereins sind:
 * Der Vorstand
 
 #### 5. Mitgliederversammlung
-Oberstes Vereinsorgan ist die Mitgliederversammlung, die auch online stattfinden darf.   
+Oberstes Vereinsorgan ist die Mitgliederversammlung, die auch auf elektronischem Wege stattfinden darf.   
 
 1. Die ordentliche Mitgliederversammlung findet einmal jährlich statt. Außerdem muss eine Mitgliederversammlung einberufen werden, wenn das Interesse des Vereins es erfordert oder wenn mindestens 1/5 der Mitglieder die Einberufung schriftlich unter Angabe des Zwecks und der Gründe verlangt.
+    - In der ordentlichen Mitgliederversammlung berichtet der Vorstand über die Tätigkeiten des abgelaufenen Jahres.
+    - Der Schatzmeister berichtet über die Verwendung der Mittel.
+    - Die Kassenprüfer stellen bei satzungsgemäßer Verwendung den Antrag zur Entlastung der Vorstandschaft über den die Mitgliederversammlung abstimmt.
+    - Die Kassenprüfer werden für das kommende Geschäftsjahr durch die Mitgliederversammlung ernannt. Sie dürfen nicht Teil der Vorstandschaft des kommenden Geschäftsjahres sein.
+    - Der Vorstand ist den Kassenprüfern gegenüber zur Rechenschaft verpflichtet.
+
 2. Jede Mitgliederversammlung ist vom Vorstand schriftlich und/oder per E-mail unter Einhaltung einer Einladungsfrist von zwei Wochen und unter Angabe der Tagesordnung einzuberufen.
 3. Versammlungsleiter ist der 1. Vorsitzende und im Falle seiner Verhinderung der 2. Vorsitzende. Sollten beide nicht anwesend sein, wird ein Versammlungsleiter von der Mitgliederversammlung gewählt. Soweit der Schriftführer nicht anwesend ist, wird auch dieser von der Mitgliederversammlung bestimmt.
-4. Die Untergrenze für die Beschlussfähigkeit der Mitgliederversammlung beträgt 20% der Mitglieder.
-5. Die Beschlüsse der Mitgliederversammlung werden mit einfacher Mehrheit der abgegebenen gültigen Stimmen gefasst. Zur Änderung der Satzung und des Vereinszwecks ist jedoch eine Mehrheit von 2/3 der abgegebenen gültigen Stimmen erforderlich.
+4. Die Untergrenze für die Beschlussfähigkeit der Mitgliederversammlung beträgt 10% der Mitglieder aber mindestens 5 Personen.
+5. Die Beschlüsse der Mitgliederversammlung werden mit einfacher Mehrheit der abgegebenen gültigen Stimmen gefasst. Das Wahlverfahren wird in einer separaten Geschäftsordnung festgelegt. Zur Änderung der Satzung und des Vereinszwecks ist jedoch eine Mehrheit von 2/3 der abgegebenen gültigen Stimmen erforderlich.
 6. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll aufzunehmen, das vom Versammlungsleiter und dem Schriftführer zu unterschreiben ist.
 
 #### 6. Vorstand
@@ -46,7 +52,7 @@ Oberstes Vereinsorgan ist die Mitgliederversammlung, die auch online stattfinden
 3. Der Vorstand wird von der Mitgliederversammlung auf die Dauer von zwei Jahren gewählt; er bleibt jedoch solange im Amt bis eine Neuwahl erfolgt ist. Mit Beendigung der Mitgliedschaft endet auch das Amt im Vorstand. Ein Mitglied des Vorstands kann sein Amt jederzeit durch schriftliche Erklärung an die Mitgliederversammlung niederlegen.
 4. Im Falle von Stimmengleichheit bei Beschlussfassungen des Vorstands entscheidet die Stimme des ersten Vorsitzenden.
 5. Der Vorstand entscheidet über die Verwendung des Vereinsvermögens.
-6. Der Schatzmeister überwacht die Geschäftsführung und verwaltet das Vermögen des Vereins. Unmittelbar nach Ablauf des Geschäftsjahrs erstellt er den Finanzabschlussbericht und stellt diesen und sonstige Unterlagen von wirtschaftlichem Belang den Rechnungsprüfern zur Prüfung zur Verfügung.
+6. Der Schatzmeister überwacht die Geschäftsführung und verwaltet das Vermögen des Vereins. Unmittelbar nach Ablauf des Geschäftsjahrs erstellt er den Finanzabschlussbericht und stellt diesen und sonstige Unterlagen von wirtschaftlichem Belang den Kassenprüfern zur Prüfung zur Verfügung.
 
 #### 7. Auflösung des Vereins
 1. Zur Auflösung des Vereins ist eine Mehrheit von 4/5 der abgegebenen gültigen Stimmen erforderlich.
