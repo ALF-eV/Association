@@ -17,7 +17,7 @@
 #### 3. Mitgliedschaft
 
 1. Mitglieder können natürliche und juristische Personen sein, die die Vereinsziele unterstützen.
-2. Über die Aufnahme entscheidet nach schriftlichem Antrag der Vorstand. Bei Minderjährigen ist der Aufnahmeantrag durch die gesetzlichen Vertreter zu stellen.
+2. Über die Aufnahme entscheidet nach schriftlichem Antrag die Vorstandschaft. Bei Minderjährigen ist der Aufnahmeantrag durch die gesetzlichen Vertreter zu stellen.
 3. Die Mitgliedschaft endet durch Austritt, durch Tod von natürlichen Personen oder durch Auflösung von juristischen Personen, durch Ausschluss oder durch Auflösung des Vereins.
 4. Der Austritt aus dem Verein ist jederzeit zulässig. Die Frist beträgt 1 Monat. Er muss schriftlich gegenüber dem Vorstand erklärt werden.
 5. Ein Mitglied kann aus dem Verein ausgeschlossen werden, wenn sein Verhalten in grober Weise gegen die Interessen des Vereins verstößt. Über den Ausschluss entscheidet die Mitgliederversammlung mit 2/3-Mehrheit der abgegebenen Stimmen.
@@ -28,7 +28,7 @@
 Die Organe des Vereins sind:   
 
 * Die Mitgliederversammlung
-* Der Vorstand
+* Die Vorstandschaft
 
 #### 5. Mitgliederversammlung
 Oberstes Vereinsorgan ist die Mitgliederversammlung, die auch auf elektronischem Wege stattfinden darf.   
@@ -38,7 +38,7 @@ Oberstes Vereinsorgan ist die Mitgliederversammlung, die auch auf elektronischem
     - Der Schatzmeister berichtet über die Verwendung der Mittel.
     - Die Kassenprüfer stellen bei satzungsgemäßer Verwendung den Antrag zur Entlastung der Vorstandschaft über den die Mitgliederversammlung abstimmt.
     - Die Kassenprüfer werden für das kommende Geschäftsjahr durch die Mitgliederversammlung ernannt. Sie dürfen nicht Teil der Vorstandschaft des kommenden Geschäftsjahres sein.
-    - Der Vorstand ist den Kassenprüfern gegenüber zur Rechenschaft verpflichtet.
+    - Die Vorstandschaft ist den Kassenprüfern gegenüber zur Rechenschaft verpflichtet.
 
 2. Jede Mitgliederversammlung ist vom Vorstand schriftlich und/oder per E-mail unter Einhaltung einer Einladungsfrist von zwei Wochen und unter Angabe der Tagesordnung einzuberufen.
 3. Versammlungsleiter ist der 1. Vorsitzende und im Falle seiner Verhinderung der 2. Vorsitzende. Sollten beide nicht anwesend sein, wird ein Versammlungsleiter von der Mitgliederversammlung gewählt. Soweit der Schriftführer nicht anwesend ist, wird auch dieser von der Mitgliederversammlung bestimmt.
@@ -46,12 +46,12 @@ Oberstes Vereinsorgan ist die Mitgliederversammlung, die auch auf elektronischem
 5. Die Beschlüsse der Mitgliederversammlung werden mit einfacher Mehrheit der abgegebenen gültigen Stimmen gefasst. Das Wahlverfahren wird in einer separaten Geschäftsordnung festgelegt. Zur Änderung der Satzung und des Vereinszwecks ist jedoch eine Mehrheit von 2/3 der abgegebenen gültigen Stimmen erforderlich.
 6. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll aufzunehmen, das vom Versammlungsleiter und dem Schriftführer zu unterschreiben ist.
 
-#### 6. Vorstand
-1. Der Gesamtvorstand des Vereins besteht aus dem 1. Vorsitzenden, dem 2. Vorsitzenden, dem Schatzmeister, dem Schriftführer, und bis zu vier weiteren Beisitzern (die genaue Anzahl wird von der Mitgliederversammlung bestimmt).
+#### 6. Vorstandschaft
+1. Die Vorstandschaft des Vereins besteht aus dem 1. Vorsitzenden, dem 2. Vorsitzenden, dem Schatzmeister, dem Schriftführer, und bis zu vier weiteren Beisitzern (die genaue Anzahl wird von der Mitgliederversammlung bestimmt).
 2. Der Vorstand im Sinne des § 26 BGB besteht aus dem 1. Vorsitzenden und dem 2. Vorsitzenden. Jeder von ihnen vertritt den Verein einzeln.
-3. Der Vorstand wird von der Mitgliederversammlung auf die Dauer von zwei Jahren gewählt; er bleibt jedoch solange im Amt bis eine Neuwahl erfolgt ist. Mit Beendigung der Mitgliedschaft endet auch das Amt im Vorstand. Ein Mitglied des Vorstands kann sein Amt jederzeit durch schriftliche Erklärung an die Mitgliederversammlung niederlegen.
-4. Im Falle von Stimmengleichheit bei Beschlussfassungen des Vorstands entscheidet die Stimme des ersten Vorsitzenden.
-5. Der Vorstand entscheidet über die Verwendung des Vereinsvermögens.
+3. Die Vorstandschaft wird von der Mitgliederversammlung auf die Dauer von zwei Jahren gewählt; er bleibt jedoch solange im Amt bis eine Neuwahl erfolgt ist. Mit Beendigung der Mitgliedschaft endet auch das Amt in der Vorstandschaft. Ein Mitglied der Vorstandschaft kann sein Amt jederzeit durch schriftliche Erklärung an die Mitgliederversammlung niederlegen.
+4. Im Falle von Stimmengleichheit bei Beschlussfassungen der Vorstandschaft entscheidet die Stimme des ersten Vorsitzenden.
+5. Die Vorstandschaft entscheidet über die Verwendung des Vereinsvermögens.
 6. Der Schatzmeister überwacht die Geschäftsführung und verwaltet das Vermögen des Vereins. Unmittelbar nach Ablauf des Geschäftsjahrs erstellt er den Finanzabschlussbericht und stellt diesen und sonstige Unterlagen von wirtschaftlichem Belang den Kassenprüfern zur Prüfung zur Verfügung.
 
 #### 7. Auflösung des Vereins
@@ -62,9 +62,9 @@ Oberstes Vereinsorgan ist die Mitgliederversammlung, die auch auf elektronischem
 Der in dieser Niederschrift verwendete Begriff der Schriftform schließt den der elektronischen Fernschriftform ein. Zur Schriftform sind Signaturen notwendig, die eine eindeutige Identifikation des Absenders ermöglichen.
 
 #### 9. Einblick in Vereinsdaten und Datenschutz
-1. Der Vorstand erstellt eine Mitgliederliste, die auf Anfrage eines Mitglieds diesem ausgehändigt wird. Die Mitgliederliste enthält Name, Postanschrift, E-Mail-Adresse und Telefonnummer der Vereinsmitglieder.
+1. Die Vorstandschaft erstellt eine Mitgliederliste, die auf Anfrage eines Mitglieds diesem ausgehändigt wird. Die Mitgliederliste enthält Name, Postanschrift, E-Mail-Adresse und Telefonnummer der Vereinsmitglieder.
 2. Die Mitgliederversammlung kann beschließen, dass die Mitgliederliste auch an bestimmte andere Personen weitergegeben wird.
-3. Jedes Mitglied kann verlangen, dass es nicht in der Mitgliederliste aufgeführt wird und dass seine Angaben anderen Personen nicht zugänglich gemacht werden. Mitglieder des Vorstandes können nicht verlangen, dass ihre Angaben nicht an Vereinsmitglieder weitergegeben werden.
+3. Jedes Mitglied kann verlangen, dass es nicht in der Mitgliederliste aufgeführt wird und dass seine Angaben anderen Personen nicht zugänglich gemacht werden. Mitglieder der Vorstandschaft können nicht verlangen, dass ihre Angaben nicht an Vereinsmitglieder weitergegeben werden.
 4. Jedes Mitglied kann Einblick in sämtliche Vereinsunterlagen verlangen.
 
 Die Gründungsmitglieder,
