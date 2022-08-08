@@ -9,8 +9,7 @@
 #### 2. Vereinszweck und Gemeinnützigkeit
 
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung. Er ist selbstlos tätig und verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
-2. Zweck des Vereins ist die Förderung von Wissenschaft und Forschung im Bereich Forschungssoftware unter spezieller Berücksichtigung von kleinen, nicht-kommerziellen, quelloffenen, wissenschaftlichen Softwareprojekten in der Physik.
--> Förderung von ALF <cite_here> und assoziierten Projekten nach individueller Entscheidung des Vorstandes
+2. Zweck des Vereins ist die Förderung von ALF (d.h. das für die Physikforschung entwickelt Open-Source Softwarepaket "Algorithms for Lattice Fermions", erhältlich unter [https://git.physik.uni-wuerzburg.de/ALF/ALF](https://git.physik.uni-wuerzburg.de/ALF/ALF), weitere Informationen unter [https://alf.physik.uni-wuerzburg.de/](https://alf.physik.uni-wuerzburg.de/)) und assoziierten Projekten nach individueller Entscheidung des Vorstandes.
 3. Der Satzungszweck wird insbesondere verwirklicht durch folgende Tätigkeiten: i) den Aufbau von wissenschaftlichen Netzwerken zu unterstützen; ii) Spenden für das ALF-Softwareprojekt entgegenzunehmen und zu verteilen, iii) die Entwicklung der ALF Software.
 4. Mittel des Vereins dürfen nur für die satzungsgemäßen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins, außerhalb des Rahmens seiner unterstützten Projekte.
 5. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
@@ -44,14 +43,14 @@ Oberstes Vereinsorgan ist die Mitgliederversammlung, die auch online stattfinden
 #### 6. Vorstand
 1. Der Gesamtvorstand des Vereins besteht aus dem 1. Vorsitzenden, dem 2. Vorsitzenden, dem Schatzmeister, dem Schriftführer, und bis zu vier weiteren Beisitzern (die genaue Anzahl wird von der Mitgliederversammlung bestimmt).
 2. Der Vorstand im Sinne des § 26 BGB besteht aus dem 1. Vorsitzenden und dem 2. Vorsitzenden. Jeder von ihnen vertritt den Verein einzeln.
-3. Der Vorstand wird von der Mitgliederversammlung auf die Dauer von zwei Jahren gewählt; er bleibt jedoch so lange im Amt bis eine Neuwahl erfolgt ist. Mit Beendigung der Mitgliedschaft endet auch das Amt im Vorstand. Ein Mitglied des Vorstands kann sein Amt jederzeit durch schriftliche Erklärung an die Mitgliederversammlung niederlegen.
+3. Der Vorstand wird von der Mitgliederversammlung auf die Dauer von zwei Jahren gewählt; er bleibt jedoch solange im Amt bis eine Neuwahl erfolgt ist. Mit Beendigung der Mitgliedschaft endet auch das Amt im Vorstand. Ein Mitglied des Vorstands kann sein Amt jederzeit durch schriftliche Erklärung an die Mitgliederversammlung niederlegen.
 4. Im Falle von Stimmengleichheit bei Beschlussfassungen des Vorstands entscheidet die Stimme des ersten Vorsitzenden.
-5. Der Vorstand ist verantwortlich für die Entscheidung über die Annahme von Förderanträgen für Softwareprojekte und über die Verteilung von Spenden, die nicht für spezifische Projekte bestimmt sind.
+5. Der Vorstand entscheidet über die Verwendung des Vereinsvermögens.
 6. Der Schatzmeister überwacht die Geschäftsführung und verwaltet das Vermögen des Vereins. Unmittelbar nach Ablauf des Geschäftsjahrs erstellt er den Finanzabschlussbericht und stellt diesen und sonstige Unterlagen von wirtschaftlichem Belang den Rechnungsprüfern zur Prüfung zur Verfügung.
 
 #### 7. Auflösung des Vereins
 1. Zur Auflösung des Vereins ist eine Mehrheit von 4/5 der abgegebenen gültigen Stimmen erforderlich.
-2. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstiger Zwecke ist das Vermögen zu steuerbegünstigten Zwecken zu verwenden. Die Entscheidung über den Empfänger obliegt der Mitgliederversammlung, die die Auflösung beschließt. Beschlüsse über die künftige Verwendung des Vermögens dürfen erst nach Einwilligung des Finanzamts ausgeführt werden.
+2. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke ist das Vermögen zu steuerbegünstigten Zwecken zu verwenden. Die Entscheidung über den Empfänger obliegt der Mitgliederversammlung, die die Auflösung beschließt. Beschlüsse über die künftige Verwendung des Vermögens dürfen erst nach Einwilligung des Finanzamts ausgeführt werden.
 
 #### 8. Schriftform
 Der in dieser Niederschrift verwendete Begriff der Schriftform schließt den der elektronischen Fernschriftform ein. Zur Schriftform sind Signaturen notwendig, die eine eindeutige Identifikation des Absenders ermöglichen.
@@ -59,7 +58,7 @@ Der in dieser Niederschrift verwendete Begriff der Schriftform schließt den der
 #### 9. Einblick in Vereinsdaten und Datenschutz
 1. Der Vorstand erstellt eine Mitgliederliste, die auf Anfrage eines Mitglieds diesem ausgehändigt wird. Die Mitgliederliste enthält Name, Postanschrift, E-Mail-Adresse und Telefonnummer der Vereinsmitglieder.
 2. Die Mitgliederversammlung kann beschließen, dass die Mitgliederliste auch an bestimmte andere Personen weitergegeben wird.
-3. Jedes Mitglied kann verlangen, dass es nicht in der Mitgliederliste aufgeführt wird und dass seine Angaben anderen Personen nicht zugänglich gemacht werden. Mitglieder der Referentenversammlung können nicht verlangen, dass ihre Angaben nicht an Vereinsmitglieder weitergegeben werden.
+3. Jedes Mitglied kann verlangen, dass es nicht in der Mitgliederliste aufgeführt wird und dass seine Angaben anderen Personen nicht zugänglich gemacht werden. Mitglieder des Vorstandes können nicht verlangen, dass ihre Angaben nicht an Vereinsmitglieder weitergegeben werden.
 4. Jedes Mitglied kann Einblick in sämtliche Vereinsunterlagen verlangen.
 
 Die Gründungsmitglieder,
