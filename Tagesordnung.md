@@ -10,6 +10,8 @@ Top 4. Beschluss über die Vereinsgründung/Eintragung
 
 Top 5. Beschluss der Satzung
 
+Top 5b. Ermächtigung des Vorstandes zu Satzungsänderungen die zur Eintragung sowie zum Erhalt der Gemeinnützigkeit notwendig sind.
+
 Top 6. Wahl des Vorstands
 
 Top 7. Ausblick/Verschiedenes
