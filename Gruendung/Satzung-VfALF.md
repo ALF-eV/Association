@@ -56,7 +56,8 @@ Oberstes Vereinsorgan ist die Mitgliederversammlung, die auch auf elektronischem
 
 #### 7. Auflösung des Vereins
 1. Zur Auflösung des Vereins ist eine Mehrheit von 4/5 der abgegebenen gültigen Stimmen erforderlich.
-2. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke ist das Vermögen zu steuerbegünstigten Zwecken zu verwenden. Die Entscheidung über den Empfänger obliegt der Mitgliederversammlung, die die Auflösung beschließt. Beschlüsse über die künftige Verwendung des Vermögens dürfen erst nach Einwilligung des Finanzamts ausgeführt werden.
+2. Bei Auflösung oder Aufhebung der Körperschaft des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen der Körperschaft an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für Förderung
+von Wissenschaft und Forschung.
 
 #### 8. Schriftform
 Der in dieser Niederschrift verwendete Begriff der Schriftform schließt den der elektronischen Fernschriftform ein. Zur Schriftform sind Signaturen notwendig, die eine eindeutige Identifikation des Absenders ermöglichen.
