@@ -1,8 +1,8 @@
-# Algorithms for Lattice Fermions Society (ALF Society)
+# Algorithms for Lattice Fermions Association (ALF Association)
 
 # _Verein Algorithms for Lattice Fermions_ (ALF e.V.)
 
-Things for the foundation and management of the Society.
+Things for the foundation (_Gründung_) and management of the ALF Association.
 
 ---
 
